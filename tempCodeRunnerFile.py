@@ -1,4 +1,3 @@
-   if(a>b):
-        print(a, "is greater than", b)
-    else:
-        print(b, "is greater than", a)
+
+# with open('sample1.txt', 'w') as f:
+#     f.write(s)
